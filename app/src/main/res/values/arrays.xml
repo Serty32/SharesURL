@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="indexes">
+        <item>AAPL</item>
+        <item>MCD</item>
+        <item>V</item>
+        <item>CAT</item>
+        <item>KO</item>
+        <item>DIS</item>
+        <item>GE</item>
+        <item>IBM</item>
+        <item>INTC</item>
+        <item>MSFT</item>
+        <item>NKE</item>
+        <item>WMT</item>
+        <item>TSLA</item>
+        <item>PEP</item>
+        <item>MERC</item>
+        <item>SSNLF</item>
+
+
+
+
+
+
+
+
+
+    </string-array>
+</resources>
